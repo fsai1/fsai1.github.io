@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Module 3 Week 3 Task 2 - Viren Mantri</title>
+    <meta name="description" content="FSAI assignment for Module 3 Week 3">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: white;
+            color: rgb(0, 2, 6);
+            font-family: Arial;
+            margin: 10px;
+        }
+        h1 {
+            color: darkgrey
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 5px 0;
+        } 
+    </style>
+</head>
+<body>
+    <h1>Module 3 Week 3 Task 2 - Viren Mantri</h1>
+    <p>FSAI assignment for Module 3 Week 3 - to demonstrate basic HTML elements</p>
+    <h2>About This Page</h2>
+    <p>This page demonstrates the use of HTML tags like paragraphs, images, links, and lists</p>
+    <ul>
+        <li>The above reflects the use of headers and paragraph tags</li>
+        <li>These bullets themselves reflect the use of lists</li>
+        <li>Below are examples of images and links</li>
+    </ul>
+    <h2>Sample Image</h2>
+    <img src="https://fsai1.github.io/nus.png" alt="Placeholder image">
+    <h2>Explore More</h2>
+    <p>Visit <a href="https://www.google.com" target="_blank">Google.com</a> to search.</p>
+</body>
+</html>
